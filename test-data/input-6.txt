@@ -1,5 +1,2 @@
-GT4500,2,0,2,0
-TORPEDO,SINGLE  # should have fired from the primary store
-TORPEDO,SINGLE
-TORPEDO,SINGLE 
+GT4500,10,1.0,10,1.0
 TORPEDO,SINGLE
